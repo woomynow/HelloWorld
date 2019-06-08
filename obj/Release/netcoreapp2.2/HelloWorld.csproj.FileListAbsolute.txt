@@ -1,0 +1,11 @@
+/home/savaged/repos/HelloWorld/bin/Release/netcoreapp2.2/HelloWorld.deps.json
+/home/savaged/repos/HelloWorld/bin/Release/netcoreapp2.2/HelloWorld.runtimeconfig.json
+/home/savaged/repos/HelloWorld/bin/Release/netcoreapp2.2/HelloWorld.runtimeconfig.dev.json
+/home/savaged/repos/HelloWorld/bin/Release/netcoreapp2.2/HelloWorld.dll
+/home/savaged/repos/HelloWorld/bin/Release/netcoreapp2.2/HelloWorld.pdb
+/home/savaged/repos/HelloWorld/obj/Release/netcoreapp2.2/HelloWorld.csprojAssemblyReference.cache
+/home/savaged/repos/HelloWorld/obj/Release/netcoreapp2.2/HelloWorld.csproj.CoreCompileInputs.cache
+/home/savaged/repos/HelloWorld/obj/Release/netcoreapp2.2/HelloWorld.AssemblyInfoInputs.cache
+/home/savaged/repos/HelloWorld/obj/Release/netcoreapp2.2/HelloWorld.AssemblyInfo.cs
+/home/savaged/repos/HelloWorld/obj/Release/netcoreapp2.2/HelloWorld.dll
+/home/savaged/repos/HelloWorld/obj/Release/netcoreapp2.2/HelloWorld.pdb

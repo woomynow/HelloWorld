@@ -1,0 +1,14 @@
+/home/savaged/repos/HelloWorld/bin/Release/netcoreapp2.2/ubuntu.18.04-x64/libhostpolicy.so
+/home/savaged/repos/HelloWorld/bin/Release/netcoreapp2.2/ubuntu.18.04-x64/libhostfxr.so
+/home/savaged/repos/HelloWorld/bin/Release/netcoreapp2.2/ubuntu.18.04-x64/HelloWorld
+/home/savaged/repos/HelloWorld/bin/Release/netcoreapp2.2/ubuntu.18.04-x64/HelloWorld.deps.json
+/home/savaged/repos/HelloWorld/bin/Release/netcoreapp2.2/ubuntu.18.04-x64/HelloWorld.runtimeconfig.json
+/home/savaged/repos/HelloWorld/bin/Release/netcoreapp2.2/ubuntu.18.04-x64/HelloWorld.runtimeconfig.dev.json
+/home/savaged/repos/HelloWorld/bin/Release/netcoreapp2.2/ubuntu.18.04-x64/HelloWorld.dll
+/home/savaged/repos/HelloWorld/bin/Release/netcoreapp2.2/ubuntu.18.04-x64/HelloWorld.pdb
+/home/savaged/repos/HelloWorld/obj/Release/netcoreapp2.2/ubuntu.18.04-x64/HelloWorld.csprojAssemblyReference.cache
+/home/savaged/repos/HelloWorld/obj/Release/netcoreapp2.2/ubuntu.18.04-x64/HelloWorld.csproj.CoreCompileInputs.cache
+/home/savaged/repos/HelloWorld/obj/Release/netcoreapp2.2/ubuntu.18.04-x64/HelloWorld.AssemblyInfoInputs.cache
+/home/savaged/repos/HelloWorld/obj/Release/netcoreapp2.2/ubuntu.18.04-x64/HelloWorld.AssemblyInfo.cs
+/home/savaged/repos/HelloWorld/obj/Release/netcoreapp2.2/ubuntu.18.04-x64/HelloWorld.dll
+/home/savaged/repos/HelloWorld/obj/Release/netcoreapp2.2/ubuntu.18.04-x64/HelloWorld.pdb
